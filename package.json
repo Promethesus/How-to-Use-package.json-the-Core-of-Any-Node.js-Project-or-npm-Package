@@ -2,12 +2,17 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jeremy Andrews",
 	"description": "This project is designed to practice pushing projects to Git. plus pushing to a hosting service, in this case, heroku",
-	"keywords": ["freecodecamp","learning to push to git", "practice makes perfect", "should use single words on key words"],
+	"keywords": [
+		"freecodecamp",
+		"learning to push to git",
+		"practice makes perfect",
+		"should use single words on key words"
+	],
 	"license": "MIT",
 	"version": "2.10.2",
 	"dependencies": {
 		"express": "^4.17.1",
-		"moment": "2.10.2"
+		"moment": "^2.10.6"
 	},
 	"main": "server.js",
 	"scripts": {
