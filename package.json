@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jeremy Andrews",
+	"description": "This project is designed to practice pushing projects to Git. plus pushing to a hosting service, in this case, heroku",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
